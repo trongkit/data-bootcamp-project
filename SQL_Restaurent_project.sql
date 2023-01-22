@@ -1,7 +1,6 @@
 -- Restaurant Owners
 -- 5 Tables
 -- 1x FACT 4x Dim
--- search google, how to add foreign key
 -- write SQL 3-5 queries analyze data
 -- 1x subquery/ with
 
